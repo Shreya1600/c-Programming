@@ -1,3 +1,4 @@
+//Program to check armstrong number
 #include<stdio.h>
 int main(void)
 {
